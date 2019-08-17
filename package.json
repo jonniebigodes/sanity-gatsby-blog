@@ -12,7 +12,7 @@
     "lint": "lerna run lint",
     "postinstall": "lerna bootstrap",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "sanitylogin":"lerna run platformlogin"
+    "sanitylogin": "lerna run platformlogin"
   },
   "devDependencies": {
     "@sanity/cli": "^0.140.17",
