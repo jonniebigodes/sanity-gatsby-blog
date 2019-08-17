@@ -9,6 +9,13 @@ export default {
       type: 'string',
       title: 'Title'
     },
+    // new field for the settings
+    {
+      name: 'subtitle',
+      type: 'string',
+      title: 'Subtitle',
+      description: 'a short description'
+    },
     {
       name: 'description',
       type: 'text',

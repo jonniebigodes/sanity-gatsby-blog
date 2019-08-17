@@ -10,7 +10,8 @@
     "build": "sanity build",
     "graphql-deploy": "sanity graphql deploy --playground",
     "lint": "eslint .",
-    "test": "sanity check"
+    "test": "sanity check",
+    "platformlogin":"sanity login"
   },
   "dependencies": {
     "@sanity/base": "^0.x",
